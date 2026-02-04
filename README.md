@@ -13,11 +13,13 @@
 
 *logica do python*
 
-*    todo o codigo funciona de um sinples sistema na qual o usuario precisa digitar duas variaveis para que toda a operação começe,
+*    todo o codigo funciona de um simples sistema, na qual o usuario precisa digitar duas variaveis para que toda a operação começe.
 
-*   o sistema usa do laço while que faz o reinicio sempre que o usuario desejar continuar,
+*   o sistema usa do laço while que faz o reinicio sempre que o usuario desejar continuar.
 
 *   para o sistema de escolha foi usado o if e else para altenar entre os tipos de operaçãa.
 
-*   
+*   para detectar o tipo de operação quando for escolhido o codigo passara para String e sera encaminhado para o if e else.
+
+*   caso o usuario coloque algo invalido o sistema logo notificará. 
 
