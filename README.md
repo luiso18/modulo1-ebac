@@ -13,4 +13,9 @@
 
 *logica do python*
 
-todo o codigo funciona de um sinples sistema na qual o usuario precisa digitar duas variaveis para que toda a operação começe, o sistema usa do laço while que faz o reinicio sempre que o usuario desejar continuar, para o sistema de escolha foi usado o if e else para altenar entre os tipos de operaçãa.
+*    todo o codigo funciona de um sinples sistema na qual o usuario precisa digitar duas variaveis para que toda a operação começe,
+
+*   o sistema usa do laço while que faz o reinicio sempre que o usuario desejar continuar,
+
+*   para o sistema de escolha foi usado o if e else para altenar entre os tipos de operaçãa.
+
